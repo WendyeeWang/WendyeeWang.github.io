@@ -15,7 +15,7 @@ Sun Yat-sen University, B.S. degree, 2021/9~2025/7
 
 ## Paper & Work
 
-I have publicly published **3** papers temporarily. **Representative work**:
+I have publicly published **2** papers temporarily. **Representative work**:
 
 1.CASIT: Collective Intelligent Agent System for Internet of Things
 
