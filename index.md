@@ -1,4 +1,5 @@
-![微信图片_20220708100713](https://github.com/WendyeeWang/WendyeeWang.github.io/assets/143933141/aa87ab1c-e01b-426a-a1d4-4bf27b2561e1)
+![image](https://github.com/WendyeeWang/WendyeeWang.github.io/assets/143933141/8f61a92e-0883-4eb7-a847-c38847f5f63a)
+
 
 ## Yi Wang
 
