@@ -1,3 +1,4 @@
+![微信图片_20220708100713](https://github.com/WendyeeWang/WendyeeWang.github.io/assets/143933141/aa87ab1c-e01b-426a-a1d4-4bf27b2561e1)
 
 ## Yi Wang
 
