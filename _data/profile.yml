@@ -45,11 +45,7 @@ education:
   position: Department of Electronics and Communication Engineering
   date: Sep. 2021 - Jul. 2025
 
- experience:
- - name: Shenzhen Innox Academy
-   logo: /assets/images/badges/innox.jpg
-   position: Winter Camp Member
-   date: 2021 winter
+
 
 awards:
 - name: Academic Paper Track, National Undergraduate Innovation Annul Meeting (全国大学生创新年会提名，学术论文赛道)
