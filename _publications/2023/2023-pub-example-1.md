@@ -10,7 +10,7 @@ cover:          /assets/images/covers/cover1.jpg
 authors:
 - Ningze Zhong*
 - Yi Wang*
-- ,etc
+- etc
 links:
   Paper: https://ieeexplore.ieee.org/abstract/document/10439991
 ---
