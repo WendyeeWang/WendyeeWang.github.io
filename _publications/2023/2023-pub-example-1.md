@@ -6,7 +6,7 @@ pub:            "IEEE Internet of Things Journal"
 pub_date:       "2023"
 abstract: >-
   An after-class project. Multi Large Language Models based IoT systems. We made this project just 2 months after ChatGPT came out. (Maybe) The first LLM-based IoT system.
-cover:          /assets/images/covers/cover1.jpg
+cover:          /assets/images/covers/cover1.png
 authors:
 - Ningze Zhong*
 - Yi Wang*
