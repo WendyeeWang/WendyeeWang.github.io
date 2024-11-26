@@ -38,15 +38,15 @@ education:
 #    Department of Electrical Engineering and Computer Science <br/>
 #    Ph.D. Student
 #  date: Sep. 2024 - present
-- name: Sun Yat-sen University (Supervised by Yulan Guo)
+- name: Sun Yat-sen University
   logo: /assets/images/badges/sysu.jpg
-  position: Department of Electronics and Communication Engineering
+  position: B.Eng (Supervised by Yulan Guo)
   date: Sep. 2021 - Jul. 2025
 
 experience:
-- name: Shenzhen Innox Academy (head by Zexiang Li)
+- name: Shenzhen Innox Academy
   logo: /assets/images/badges/innox.jpg
-  position: Winter Camp Member
+  position: Winter Camp Member (head by Zexiang Li)
   date: 2021 winter
 
 
