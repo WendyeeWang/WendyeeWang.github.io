@@ -3,9 +3,9 @@ secondary_name: ""
 navbar_name: "Ningze Zhong"
 
 positions:
-- #logo: /assets/images/badges/MIT_Social_circle.png  # Logo is optional
-  name: Proudly, I am a Cantonese and I love Cantonese culture
-- name: I am born in HK-Guangdong-Macau Greater Bay Area in China
+ #logo: /assets/images/badges/MIT_Social_circle.png  # Logo is optional
+- name: Proudly, I am a Cantonese and I love Cantonese culture
+- name: I am born in HongKong-Guangdong-Macau Greater Bay Area in China
 
 
 email: "lemonzhong001@163.com"
