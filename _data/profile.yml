@@ -20,13 +20,11 @@ email: "lemonzhong001@163.com"
 # orcid: 0000-0000-0000-0000
 
 short_bio_text_justify: false
+  #<p>
+  #  A <a href="https://en.wikipedia.org/wiki/Bicolor_cat" target="_blank">bicolor cat</a> is a cat with white fur combined with fur of some other colour, for example solid black, tabby, or colourpointed.
+  #</p>
   <p>
-    A <a href="https://en.wikipedia.org/wiki/Bicolor_cat" target="_blank">bicolor cat</a> is a cat with white fur combined with fur of some other colour, for example solid black, tabby, or colourpointed.
-  </p>
-  <p>
-    There are various patterns of a bicolour cat. These range from the Van-patterned (colour on the crown of the head 
-    and the tail only) to a solid colour with a throat locket or medallion. Bicolour coats are found in many cat breeds, 
-    as well as being common in domestic longhair and domestic shorthair cats.
+    My name is Ningze Zhong and I am an undergrad student.
   </p>
 
 portrait_url: /assets/images/photos/person.jpeg
@@ -46,7 +44,7 @@ education:
   date: Sep. 2021 - Jul. 2025
 
 experience:
-- name: Shenzhen Innox Academy
+- name: Shenzhen Innox Academy <a href="https://en.wikipedia.org/wiki/Bicolor_cat" target="_blank">bicolor cat</a>
   logo: /assets/images/badges/innox.jpg
   position: Winter Camp Member
   date: 2021 winter
