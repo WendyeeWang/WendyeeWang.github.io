@@ -23,9 +23,9 @@ short_bio_text_justify: false
   #<p>
   #  A <a href="https://en.wikipedia.org/wiki/Bicolor_cat" target="_blank">bicolor cat</a> is a cat with white fur combined with fur of some other colour, for example solid black, tabby, or colourpointed.
   #</p>
-  <p>
-    My name is Ningze Zhong and I am an undergrad student.
-  </p>
+  #<p>
+  #  My name is Ningze Zhong and I am an undergrad student.
+  #</p>
 
 portrait_url: /assets/images/photos/person.jpeg
 portrait_caption: >-
@@ -38,13 +38,13 @@ education:
 #    Department of Electrical Engineering and Computer Science <br/>
 #    Ph.D. Student
 #  date: Sep. 2024 - present
-- name: Sun Yat-sen University
+- name: Sun Yat-sen University (Supervised by Yulan Guo)
   logo: /assets/images/badges/sysu.jpg
   position: Department of Electronics and Communication Engineering
   date: Sep. 2021 - Jul. 2025
 
 experience:
-- name: Shenzhen Innox Academy <a href="https://en.wikipedia.org/wiki/Bicolor_cat" target="_blank">bicolor cat</a>
+- name: Shenzhen Innox Academy (head by Zexiang Li)
   logo: /assets/images/badges/innox.jpg
   position: Winter Camp Member
   date: 2021 winter
@@ -52,9 +52,9 @@ experience:
 
 
 awards:
-- name: Academic Paper Track, National Undergraduate Innovation Annul Meeting (全国大学生创新年会提名，学术论文赛道)
+- name: Academic Paper Track, National Undergraduate Innovation Annul Meeting
   date: 2024
 - name: Samsung Scholarship
   date: 2023
 - name: Academic Excellence Scholarship
-  date: 2023,2024
+  date: 2023
