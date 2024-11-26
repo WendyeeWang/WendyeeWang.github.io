@@ -9,7 +9,7 @@ pub:            "ACM Multimedia 2024 (ACM MM)"
 # pub_date:       "2024"
 
 abstract: >-
-  Photo by Pineapple Supply Co. on Unsplash. Please put a tldr (too-long-didnt-read, 1~2 sentences) of your publication here. It is not recommended to put the actual abstract here because it is usually too long to fit in. $\LaTeX$ is supported. $a=b+c$.
+  We have invented a new kind of 3D Gaussian Splatting method that can save memory can remain competitive PSNR performance at the same time.
 cover:          /assets/images/covers/cover2.png
 authors:
   - Y. Wang*
@@ -18,6 +18,5 @@ authors:
   - L. Wang
   - Y. Guo
 links:
-  Code: https://github.com/luost26/academic-homepage
-  Unsplash: https://unsplash.com/photos/sliced-in-half-pineapple--_PLJZmHZzk
+  Paper: https://dl.acm.org/doi/abs/10.1145/3664647.3680688
 ---
