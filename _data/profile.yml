@@ -32,15 +32,9 @@ portrait_caption: >-
   Photo by My Father in Hongkong.
 
 education:
-#- name: Massachusetts Institute of Technology
-#  logo: /assets/images/badges/MIT_Social_circle.png
-#  position: >- 
-#    Department of Electrical Engineering and Computer Science <br/>
-#    Ph.D. Student
-#  date: Sep. 2024 - present
-- name: University of Pennsylvania
+- name: GRASP Lab, University of Pennsylvania
   logo: /assets/images/badges/grasp.png
-  position: M.SE in GRASP Lab
+  position: M.SE
   date: Sep. 2025 - Jul. 2027
   
 - name: Sun Yat-sen University
