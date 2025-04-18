@@ -27,33 +27,33 @@ short_bio_text_justify: false
   #  My name is Ningze Zhong and I am an undergrad student.
   #</p>
 
-portrait_url: /assets/images/photos/person.jpeg
+portrait_url: assets/images/photos/微信图片_20250417225014.jpg
 # portrait_caption: >-
   # Photo by My Father in Hongkong.
 
 education:
-- name: GRASP Lab, University of Pennsylvania 
-  logo: /assets/images/badges/upen.png
-  position: M.SE in Robotics
-  date: Sep. 2025 - Jul. 2027
+- name: Sun Yat-sen University
+  logo: /assets/images/badges/sysu.jpg
+  position: Ph.D candidate (Supervised by Prof. Yulan Guo)
+  date: Sep. 2025 - 
   
 - name: Sun Yat-sen University
   logo: /assets/images/badges/sysu.jpg
   position: B.Eng (Supervised by Prof. Yulan Guo)
   date: Sep. 2021 - Jul. 2025
 
-experience:
-- name: Shenzhen Innox Academy
-  logo: /assets/images/badges/innox.jpg
-  position: Winter Camp Member (Head by DJI Founder Prof. Zexiang Li)
-  date: 2023 winter 
+# experience:
+# - name: Shenzhen Innox Academy
+#   logo: /assets/images/badges/innox.jpg
+#   position: Winter Camp Member (Head by DJI Founder Prof. Zexiang Li)
+#   date: 2023 winter 
 
 
 
 awards:
 - name: Academic Paper Track, National Undergraduate Innovation Annul Meeting
   date: 2024
-- name: Samsung Scholarship
-  date: 2023
-- name: Academic Excellence Scholarship
-  date: 2023
+- name: National Scholarship, China
+  date: 2024
+- name: Academic Excellence Scholarship, First Prize, SYSU
+  date: 2023, 2024
