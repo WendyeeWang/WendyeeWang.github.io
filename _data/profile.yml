@@ -32,9 +32,9 @@ portrait_caption: >-
   Photo by My Father in Hongkong.
 
 education:
-- name: GRASP Lab, University of Pennsylvania
+- name: University of Pennsylvania
   logo: /assets/images/badges/upenn.png
-  position: M.SE
+  position: (GRASP Lab) M.SE in Robotics
   date: Sep. 2025 - Jul. 2027
   
 - name: Sun Yat-sen University
