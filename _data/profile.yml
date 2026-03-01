@@ -4,7 +4,7 @@ navbar_name: "Yi Wang"
 
 positions:
  #logo: /assets/images/badges/MIT_Social_circle.png  # Logo is optional
-- name: I was born in Guangdong-Hong Kong-Macau Greater Bay Area in China
+- name: I was born in Guangdong-Hong Kong-Macau Greater Bay Area in China. I mainly focus on `Reinforcement Learning`, `Computer Vision` and `Robotics'. I serve as a reviewer of ICLR 2026 and so on.
 - name: I support girls in AI
 
 
@@ -51,6 +51,8 @@ education:
 
 
 awards:
+- name: President's Scholarship
+  date: 2025 - 2026
 - name: Academic Paper Track, National Undergraduate Innovation Annul Meeting
   date: 2024
 - name: National Scholarship, China
