@@ -1,6 +1,6 @@
 ---
 title:          "MangoBench: A Benchmark for Multi-Agent Goal-Conditioned Offline Reinforcement Learning"
-date:           2026-2-21 00:01:00 +0800
+date:           2026-03-16 00:01:00 +0800
 selected:       true
 pub:            "IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)"
 # pub_pre:        "Submitted to "

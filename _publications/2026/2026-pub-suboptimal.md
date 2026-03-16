@@ -1,6 +1,6 @@
 ---
 title:          "Leveraging Suboptimal and Noisy Trajectories for Goal-Conditional Offline RL"
-date:           2026-3-6 00:01:00 +0800
+date:           2026-03-06 00:01:00 +0800
 selected:       true
 pub:            "ICLR 2026 RSI Workshop"
 # pub_pre:        "Submitted to "
