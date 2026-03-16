@@ -9,7 +9,7 @@ pub:            "ACM Multimedia 2024 (ACM MM)"
 pub_date:       "2024"
 
 abstract: >-
-  We have invented a new kind of 3D Gaussian Splatting method that can save memory can remain competitive PSNR performance at the same time.
+  This study introduces Tangram-Splatting, a novel 3D scene reconstruction method inspired by the tangram puzzle. This method optimizes 3D Gaussian Splatting by diversifying Gaussian functions, achieving a 62.4% reduction in memory overhead while maintaining competitive PSNR performance.
 cover:          /assets/images/covers/cover2.png
 authors:
   - Yi Wang*

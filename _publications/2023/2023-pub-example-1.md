@@ -5,7 +5,7 @@ selected:       true
 pub:            "IEEE Internet of Things Journal"
 pub_date:       "2023"
 abstract: >-
-  An after-class project. Multi Large Language Models based IoT systems. We made this project just 2 months after ChatGPT came out. (Maybe) The first LLM-based IoT system.
+  This article introduces CASIT, a pioneering collective intelligent agent system for IoT, leveraging multiple LLM-based agents with Memory and Summary Mechanisms to collaboratively solve complex tasks and optimize information transmission.
 cover:          /assets/images/covers/cover1.png
 authors:
 - Ningze Zhong*
